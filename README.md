@@ -2,7 +2,7 @@
 
 Statistical analysis in R examining how **context** (Home, Office, Music,
 Silence) and **trait extraversion** jointly influence **source memory
-accuracy**, using a mixed repeated-measures design.\ 
+accuracy**, using a mixed repeated-measures design. \ 
 Originally analysed in JASP; this repository reproduces the full analysis pipeline in reproducible
 R code.
 
