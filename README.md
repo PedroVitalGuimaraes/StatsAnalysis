@@ -1,8 +1,6 @@
 # Source Memory, Context, Extraversion
 
-Statistical analysis in R examining how **context** (Home, Office, Music,
-Silence) and **trait extraversion** jointly influence **source memory
-accuracy**, using a mixed repeated-measures design. Originally analysed in JASP; this repository reproduces the full analysis pipeline in R.
+Statistical analysis in R examining how **Context**, **Dynamic** and **Extraversion** jointly influence **source Memory accuracy**, using a mixed repeated-measures design. Originally analysed in JASP; this repository reproduces the full analysis pipeline in R.
 
 ## Design
 
@@ -10,7 +8,7 @@ accuracy**, using a mixed repeated-measures design. Originally analysed in JASP;
 |---|---|---|
 | Dinamica | Within-subjects | Background, Mozart |
 | Contexto | Within-subjects | Casa, Escritorio, Musica, Silencio |
-| TIPI_Extroversao_Grau | Between-subjects | High (H), Low (L) |
+| Extroversao | Between-subjects | High (H), Low (L) |
 
 - **N = 40** participants (20 High extraversion, 20 Low extraversion)
 - Dependent variable: source memory accuracy
